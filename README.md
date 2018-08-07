@@ -1,6 +1,8 @@
 # Demonstration of TensorFlow's Dataset and Iterators 
 This repository is an illustration of how to use Tensorflow's Datasets and Iterators with MNIST image training pipelines.
 
+You can read the full detailed explanation about the code used in this repository in [my Medium post](https://medium.com/ymedialabs-innovation/how-to-use-dataset-and-iterators-in-tensorflow-with-code-samples-3bb98b6b74ab).
+
 You may go through each of the file for the specific code samples listed below.
 
 ### Dataset Creation from Numpy/Tensor example
